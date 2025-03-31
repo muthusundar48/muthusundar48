@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muthusundar48
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning excel,sql,python and powerbi
-- 📌 Project links - [Cricket World Cup Analysis](https://github.com/muthusundar48/cwc-2023-sql-muthusundar/blob/main/queries.md)-[Layoff anaqlysis Data Cleaning](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---data-cleaning)-[Layoffs analysis EDA](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---EDA/blob/main/queries_eda.md)
+- 📌 Project links 1. [Cricket World Cup Analysis](https://github.com/muthusundar48/cwc-2023-sql-muthusundar/blob/main/queries.md) 2. [Layoff analysis - Data Cleaning](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---data-cleaning) 3. [Layoffs analysis - EDA](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---EDA/blob/main/queries_eda.md)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muthusundar48@gmail.com...
 - 😄 Pronouns: Muthu
