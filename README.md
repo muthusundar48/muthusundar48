@@ -5,7 +5,7 @@
   2. *Sql*
   3. *Python*
   4. *Powerbi*
-- 📌 Project links 1. [Shopify sales analysis](https://github.com/muthusundar48/cwc-2023-sql-muthusundar/blob/main/README.md) 2. [Layoff analysis - Data Cleaning](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---data-cleaning/blob/main/README.md) 3. [Layoff analysis - EDA](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---EDA/blob/main/README.md)
+- 📌 Project links 1. [Shopify sales analysis](https://github.com/muthusundar48/Shopify-sales-analysis-Power-BI) 2. [Layoff analysis - Data Cleaning](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---data-cleaning/blob/main/README.md) 3. [Layoff analysis - EDA](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---EDA/blob/main/README.md)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muthusundar48@gmail.com...
 - 😄 Pronouns: Muthu
